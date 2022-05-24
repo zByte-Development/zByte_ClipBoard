@@ -1,4 +1,4 @@
-# zByte_ClipBoard
+# zByte_ClipBoard : For Copy Text To ClipBoard 
 
 
 # How To Use : > 
